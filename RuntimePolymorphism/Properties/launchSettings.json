@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RuntimePolymorphism": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
