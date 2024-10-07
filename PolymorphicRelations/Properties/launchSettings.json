@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PolymorphicRelations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
